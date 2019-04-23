@@ -1,0 +1,63 @@
+[["Boy Scout Program",["Membership", [], "Tenderfoot Class" []
+      },
+      {
+        "Second Class": [
+          "Safety",
+          "Citizenship  in the Home"
+        ]
+      },
+      {
+        "First Class": [
+          "Citizenship in the Community",
+          "Filipino Heritage",
+          "First Aid",
+          "Ecology",
+          "Tree Farming"
+        ]
+      }
+    ]
+  },
+  {
+    "Program": "Senior Scout Program",
+    "Ranks": [{
+        "Membership": []
+      },
+      {
+        "Explorer": [
+          "Safety",
+          "Citizenship  in the Home"
+        ]
+      },
+      {
+        "Pathfinder": [
+          "Citizenship in the Community",
+          "Filipino Heritage",
+          "First Aid",
+          "Ecology",
+          "Tree Farming"
+        ]
+      }
+    ]
+  },
+  {
+    "Program": "Trail to Eagle",
+    "Ranks": [{
+        "Outdoorsman Scout": [
+          "Citizenship in the Nation",
+          "Physical Fitness",
+          "Weather",
+          "Swimming",
+          "Soil and Water Conservation"
+        ]
+      },
+      {
+        "Venturer Scout": ["Camping", "Emergency Preparedness"]
+
+      },
+      {
+        "Eagle Scout": ["World Brother Hood", "Lifesaving"]
+
+      }
+    ]
+  }
+]
